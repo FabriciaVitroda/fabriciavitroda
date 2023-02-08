@@ -2,7 +2,7 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="400" style="border-radius:10px;" src="https://img.freepik.com/vetores-gratis/menina-feliz-com-borboleta_1450-103.jpg?w=740&t=st=1675815308~exp=1675815908~hmac=8b1ce0b50ea0f19c235d2da1c50c6ad22fd456fa0f5ebe10d3b123d3f2d7eb4e">
+  <img align="right" alt="Rafa-pic" height="300" style="border-radius:10px;" src="https://img.freepik.com/vetores-gratis/menina-feliz-com-borboleta_1450-103.jpg?w=740&t=st=1675815308~exp=1675815908~hmac=8b1ce0b50ea0f19c235d2da1c50c6ad22fd456fa0f5ebe10d3b123d3f2d7eb4e">
   <img align="left" alt="Rafa-pic" height="300" style="border-radius:15px;" src="https://img.freepik.com/fotos-gratis/3d-renderizar-o-conceito-de-acesso-negado-a-protecao-de-dados_107791-15853.jpg?w=740&t=st=1675817515~exp=1675818115~hmac=1c0092ecc6129a42b824d5df5476a04c5c7afc402f2228bcbebc2f522170ab88">
 </div>
 
